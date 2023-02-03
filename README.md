@@ -1,6 +1,6 @@
 # programme-software
 ## assignment
-### 用户数据存储
+### 用户数据存储 ClubMembership 主方法
 #### 主页面
 #### <img width="600" alt="主页" src="https://user-images.githubusercontent.com/92088433/216574124-3fbf7088-fac6-4d0c-bb44-e042a4530b97.png">
 #### 添加用户信息
